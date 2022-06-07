@@ -1,5 +1,5 @@
 # Combinations
-Python Project
+Python Project 05/2022
 
 In this project, the goal was to create all possible combinations of k^n.
 
